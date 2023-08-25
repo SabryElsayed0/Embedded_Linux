@@ -6,11 +6,20 @@
   - file.c that contain code according to user inputs  
 ## Example 
 ```python
-    
+please enter Bit0 mode : in
+please enter Bit0 mode : in
+please enter Bit1 mode : out
+please enter Bit2 mode : in
+please enter Bit3 mode : in
+please enter Bit4 mode : out
+please enter Bit5 mode : in
+please enter Bit6 mode : in
+please enter Bit7 mode : in
+
 ```
 ## Output 
 ```python
-   Open the website according user choice
+   file.c that contain DDR = 0b111011011;
 ```
 
 # 2 -Using PyAutoGUI - To open vscode 
