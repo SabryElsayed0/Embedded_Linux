@@ -15,7 +15,6 @@ please enter Bit4 mode : out
 please enter Bit5 mode : in
 please enter Bit6 mode : in
 please enter Bit7 mode : in
-
 ```
 ## Output 
 ```python
