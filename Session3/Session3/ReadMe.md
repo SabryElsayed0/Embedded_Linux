@@ -1,5 +1,5 @@
 # 1-Make your module that contain favourite websites and have function called Firefox take url and open website 
-# 2- then make main file and print menu of sites for user and let him choice
+#  then make main file and print menu of sites for user and let him choice
 
 ## Input 
    - User favorite website 
@@ -16,3 +16,12 @@
    Open the website according user choice
 ```
 
+# 2 -Using PyAutoGUI - To open vscode 
+- install clangd from extension
+- install c++ testmate  from extension
+- install c++ helper  from extension
+- install cmake  from extension
+- install cmake tools  from extension
+  
+## Overview
+- This program open vs code and install the previous package automatically
