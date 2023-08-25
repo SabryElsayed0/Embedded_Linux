@@ -7,9 +7,12 @@
   - Open this website
 ## Example 
 ```python
-raduis = 2.5
+    1 - for facebook website")
+    2 - for LinkedIn website")
+    3 - for GitHub website")
 ```
 ## Output 
 ```python
-The area is 28.9
+   Open the website according user choice
 ```
+
