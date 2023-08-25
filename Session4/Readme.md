@@ -21,41 +21,15 @@ please enter Bit7 mode : in
    file.c that contain DDR = 0b111011011;
 ```
 
-# 2 -Using PyAutoGUI - To open vscode 
-- install clangd from extension
-- install c++ testmate  from extension
-- install c++ helper  from extension
-- install cmake  from extension
-- install cmake tools  from extension
-  
-## Overview
-- This program open vs code and install the previous package automatically
+# Write a Python program to get the command-line arguments
+# Example:
+![2023-08-26_015612](https://github.com/SabryElsayed0/Embedded_Linux/assets/114191115/ca3ef4f1-5e3d-4957-b394-9411502697da)
+
+#  Python program to parse header file and read all prototypes of function and insert it into excel sheet with unique ID start with IDX0
+# Example:
+![2023-08-26_020436](https://github.com/SabryElsayed0/Embedded_Linux/assets/114191115/9853e043-462a-432c-9232-056eecd4555e)
 
 
-## Input 
-   - User favorite website 
-## Output
-  - Open this website
-## Example 
-```python
-    1 - for facebook website")
-    2 - for LinkedIn website")
-    3 - for GitHub website")
-```
-## Output 
-```python
-   Open the website according user choice
-```
-
-# 2 -Using PyAutoGUI - To open vscode 
-- install clangd from extension
-- install c++ testmate  from extension
-- install c++ helper  from extension
-- install cmake  from extension
-- install cmake tools  from extension
-  
-## Overview
-- This program open vs code and install the previous package automatically
 
 
 
